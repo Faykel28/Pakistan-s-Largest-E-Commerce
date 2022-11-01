@@ -23,3 +23,4 @@ Setelah melakukan analisa, maka didapatkan kesimpulan sebagai berikut:
 
 # Dashboard
 [Dashboard Tableau](https://public.tableau.com/app/profile/faykel.nicandro.hattu/viz/PakistansLargestE-Commerce2018/Dashboard1)
+![alt text](https://github.com/faykelnicandro/Pakistan-s-Largest-E-Commerce/blob/main/Dashboard%20-%20Pakistan's%20Largest%20E-Commerce.png)
