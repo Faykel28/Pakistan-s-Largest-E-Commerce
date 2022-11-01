@@ -20,3 +20,6 @@ Setelah melakukan analisa, maka didapatkan kesimpulan sebagai berikut:
 - Menggunakan uji hipotesis dengan metode Chi Square Test, metode pembayaran dan status dinyatakan memiliki korelasi. 
 - Status pembayaran menjadi hal yang cukup penting untuk menunjang omset. Convertion rate dari total keseluruhan berada di angka 53.97% dan produk dalam proses di angka 0,02%. Angka 60% relatif rendah, mengingat setiap transaksi gagal adalah omset yang hilang.
 - Metode pembayaran yang paling banyak dipilih adalah cod atau Cash on Delivery (46.65%), lalu diikuti oleh Easypay (16.70%) dan Payaxis (16.58%) dengan masing-masing convertion rate (status = Completed) adalah 72.06%, 32.88% dan 32.76%.
+
+# Dashboard
+[Dashboard Tableau](https://public.tableau.com/app/profile/faykel.nicandro.hattu/viz/PakistansLargestE-Commerce2018/Dashboard1)
