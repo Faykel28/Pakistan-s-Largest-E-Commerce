@@ -1,5 +1,4 @@
 # Pakistan-s-Largest-E-Commerce
-Pakistan's Largest E-Commerce - Capstone Project 2 Purwadhika
 Ketertarikan masyarakat terhadap E-commerce di Pakistan sedang naik daun. Untuk memanfaatkan hal tersebut, perusahaan-perusahaan e-commerce di Pakistan perlu melakukan tindakan yang tepat dalam memberikan fitur, kemudahan, maupun pelayanan kepada pelanggan sehingga angka penjualan terus naik dan bisa menguasai pasar di Pakistan.
 Perusahaan ingin mengetahui catatan hasil penjualan secara detail. Dengan infromasi tersebut, perusahaan akan mampu untuk menyusun strategi pemasaran dan meningkatkan pelayanan kepada pelanggan sehingga mampu untuk meningkatkan omzet penjualan e-commerce di Pakistan.
 Dengan keadaan tersebut, permasalahan yang harus diselesaikan adalah:
